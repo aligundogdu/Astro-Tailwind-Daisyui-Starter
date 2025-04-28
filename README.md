@@ -61,7 +61,7 @@ yarn dev
 │   └── pages/        # Pages (routes)
 │   └── styles/       # Style Files
 ├── astro.config.mjs  # Astro configuration
-├── tailwind.config.cjs # TailwindCSS configuration
+├── tailwind.config.js # TailwindCSS configuration
 └── package.json
 ```
 
